@@ -1,5 +1,12 @@
+//
+// Problem Source : https://www.acmicpc.net/problem/2292
+// Made by Seungyong Lee
+//
+
 #include <iostream>
+
 using namespace std;
+
 int main(){
     int n;
     int min = 1, max = 1;
